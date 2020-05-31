@@ -11,9 +11,9 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 
 자신의 username이 적힌 그림 파일이 하단에 보여야 합니다.
 
-![main_yj](../resources/learn-git-branching-main_yj.jpg)
+![main_yj](https://github.com/y0ungju-dev/wiset-ai-oss-hw/blob/master/resources/main_yj.jpg)
 
-![remote_yj](../resources/learn-git-branching-remote_yj.jpg)
+![remote_yj](https://github.com/y0ungju-dev/wiset-ai-oss-hw/blob/master/resources/remote_yj.jpg)
 
 ## 응원의 말
 
